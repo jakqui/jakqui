@@ -47,6 +47,6 @@
 
 ## 🤔 Other interesting facts from my github
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielespanadero&show_icons=true&locale=en&layout=compact" alt="danielespanadero" /></p><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="jakqui" /></p><br><br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielespanadero&show_icons=true&locale=en" alt="danielespanadero" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en" alt="jakqui" /></p>
