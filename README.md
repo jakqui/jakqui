@@ -1,18 +1,10 @@
 <h1 align="center">Hi, I'm Jakqueline Herrera</h1>
 <h3 align="center">Full Stack Developer passionate about new technologies!</h3>
 
-- 👨‍💻 All of my projects are available at [https://daniel-espanadero.com/](https://daniel-espanadero.com/) (I need to catch up and update)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js...**
-
-- 📫 How to reach me **developer@daniel-espanadero.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/d_espanadero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_espanadero" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/daniel-espa%c3%b1adero-fern%c3%a1ndez-430266175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-espa%c3%b1adero-fern%c3%a1ndez-430266175/" height="40" width="50" /></a>
+<a href="www.linkedin.com/in/jakqueline-hg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-espa%c3%b1adero-fern%c3%a1ndez-430266175/" height="40" width="50" /></a>
 <a href="https://www.instagram.com/danielespanadero/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielespanadero/" height="40" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g" height="40" width="50" /></a>
 </p><br>
 
 ## ⚡ Technologies
