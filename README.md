@@ -1,6 +1,6 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Jakqui Herrera 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack apasionado por las nuevas tecnologías.
+Welcome to my GitHub Profile. I'm a Full Stack Developer passionate about new technologies!
 
 ## 💻 Tecnologías que manejo:
 - Java
