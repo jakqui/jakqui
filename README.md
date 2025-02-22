@@ -21,8 +21,8 @@
 
 ### 🖼️ Frameworks & libraries
 
-| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | | <img title="Vue" alt="Vue" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> |
-| -- | -- | -- | -- |
+| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Vue" alt="Vue" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> |
+| -- | -- | -- |
 
 ### :wrench: Tools
 
