@@ -12,7 +12,7 @@
 ### :speech_balloon: Languages
 
 | <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopensource.muenchen.de%2Fsoftware%2Fjaspersoft-studio.html&psig=AOvVaw3X8y0zHuUD5cFjsqKqYkbK&ust=1740271618894000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj76I-H1osDFQAAAAAdAAAAABAE"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| -- | -- | -- | -- | -- |
 
 ### :floppy_disk: Databases
 
