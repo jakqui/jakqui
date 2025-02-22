@@ -26,7 +26,7 @@
 
 ### :wrench: Tools
 
-|| <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/jasperreports/jasperreports.png">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|
+|<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/jasperreports/jasperreports.png">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Talend" alt="talend" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/talend/talend.png">|
 | -- | -- | -- | -- | -- | -- |
 
 <br>
