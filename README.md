@@ -32,16 +32,14 @@
 <br>
   
 ## :muscle: My strengths
-- :question: I try to **learn** something new every day.
-- 👥 I try to bring out the best in people.
-- ✅ **Validation** nerd.
+- :question: I try to **learn** new things every day.
+- I never give up easily
 
 <br>
 
 ## :sweat_smile: My flaws
-- 🤯 Sometimes I find it hard to take a break.
-- :tshirt: I'm not good at dressing like an adult.
-- :innocent: Sorry, what was your name?
+- :tshirt: I get impatient when something makes me angry
+- :innocent: Sorry, who are you?
 
 <br>
 
