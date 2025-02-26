@@ -12,51 +12,30 @@
 ---
 
 
-## ⚡ Technologies
+## ⚡ Technologies & :wrench: Tools
 
-### :speech_balloon: Languages
-
-| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
-| -- | -- | -- | -- |
-
-### :floppy_disk: Databases
-
-|<img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
-| -- |
-
-### 🖼️ Frameworks & libraries
-
-| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Vue" alt="Vue" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> |
-| -- | -- | -- |
-
-### :wrench: Tools
-
-|<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Talend" alt="talend" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg">|
-| -- | -- | -- | -- | -- | -- |
-
-
-
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img title="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img title="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img title="CSS" title="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img title="MySQL" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img title="Spring" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img title="Vue" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img title="Quasar" src="https://icon.icepanel.io/Technology/png-shadow-512/Quasar.png" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40"/>
+  <img title="npm" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" height="40"/>
+  <img title="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="40"/>
+  <img title="JasperReports" src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg" height="40"/>
+  <img title="Docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" height="40"/>
+  <img title="Talend" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg" height="40" width="40"/>
 </div>
-
 
 ---
   
