@@ -3,7 +3,7 @@
 
 <p>Software Developer with over 7 years of experience in developing web applications and customized ERP systems. Skilled in Java and Spring Boot development, with expertise in data integration and SQL database management. Passionate about creating scalable and optimized solutions to enhance user experience and improve business process efficiency. I enjoy continuous learning and staying up-to-date with emerging technologies to deliver innovative solutions.</p>
 
-<h4 align="center">Connect with me:</h4>
+<h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/jakqueline-hg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakqueline-hg" height="40" width="50" /></a>
 <a href="https://www.instagram.com/_herreraa.jaky/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_herreraa.jaky/" height="40" width="50" /></a>
@@ -12,7 +12,7 @@
 ---
 
 
-## ⚡ Technologies & :wrench: Tools
+<h4 align="left">⚡ Technologies and Tools</h4>
 
 <div align="center">
   <img title="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40"/>
@@ -37,13 +37,11 @@
   <img title="Talend" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg" height="40" width="40"/>
 </div>
 
----
-  
+---  
 | **:fire: My strengths**              | **:sweat_smile: My flaws**              |
 |----------------------------------------|----------------------------------------|
 | :question: I try to **learn** new things every day. | :tshirt: I get impatient when something makes me angry |
 | :muscle: I never give up easily                 | :innocent: Sorry, who are you?         |
-
 ---
 
 ###
