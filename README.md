@@ -32,24 +32,17 @@
 |<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Talend" alt="talend" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg">|
 | -- | -- | -- | -- | -- | -- |
 
-<br>
+---
   
-## :muscle: My strengths
-- :question: I try to **learn** new things every day.
-- I never give up easily
-
-<br>
-
-## :sweat_smile: My flaws
-- :tshirt: I get impatient when something makes me angry
-- :innocent: Sorry, who are you?
-
-<br>
+| **:fire: My strengths**              | **:sweat_smile: My flaws**              |
+|----------------------------------------|----------------------------------------|
+| :question: I try to **learn** new things every day. | :tshirt: I get impatient when something makes me angry |
+| :muscle: I never give up easily                 | :innocent: Sorry, who are you?         |
 
 ---
-## 🤔 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="jakqui" />
-</p><br><br>
+<h2 tyle="margin-bottom: 0;">🤔 GitHub Stats</h2>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en&theme=dark" alt="jakqui" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact&theme=dark" alt="jakqui" />  
+</div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en" alt="jakqui" /></p>
