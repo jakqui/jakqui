@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jakqueline Herrera</h1>
+<h1 align="center">Hi, I'm Jakqueline Herrera García</h1>
 <h3 align="center">Software Developer [ Backend & Frontend ] Passionate about New Technologies!</h3>
 
 <h3 align="center">Connect with me:</h3>
