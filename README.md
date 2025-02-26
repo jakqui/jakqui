@@ -48,7 +48,8 @@
 
 ---
 ## 🤔 GitHub Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="jakqui" /></p><br><br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="jakqui" />
+</p><br><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en" alt="jakqui" /></p>
