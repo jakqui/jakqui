@@ -34,6 +34,30 @@
 |<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Talend" alt="talend" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg">|
 | -- | -- | -- | -- | -- | -- |
 
+
+
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+
 ---
   
 | **:fire: My strengths**              | **:sweat_smile: My flaws**              |
@@ -42,9 +66,12 @@
 | :muscle: I never give up easily                 | :innocent: Sorry, who are you?         |
 
 ---
-<h2 tyle="margin-bottom: 0;">🤔 GitHub Stats</h2>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en&theme=dark" alt="jakqui" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact&theme=dark" alt="jakqui" />  
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jakqui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
