@@ -8,7 +8,7 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjrz96&label=Profile%20views&color=0e75b6&style=flat" alt="luisjrz96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakqui&label=Profile%20views&color=0e75b6&style=flat" alt="jakqui" /> </p>
 
 ## ⚡ Technologies
 
