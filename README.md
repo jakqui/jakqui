@@ -1,14 +1,16 @@
-<h1 align="center">Hi, I'm Jakqueline Herrera García</h1>
-<h3 align="center">Software Developer [ Backend & Frontend ] Passionate about New Technologies!</h3>
+<h1 align="center">Hi, I'm Jakqueline Herrera García :wave: </h1>
+<h3 align="center">Software Developer [ Backend & Frontend ] Passionate about New Technologies!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakqui&label=Profile%20views&color=0e75b6&style=flat" alt="jakqui" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<p>Software Developer with over 7 years of experience in developing web applications and customized ERP systems. Skilled in Java and Spring Boot development, with expertise in data integration and SQL database management. Passionate about creating scalable and optimized solutions to enhance user experience and improve business process efficiency. I enjoy continuous learning and staying up-to-date with emerging technologies to deliver innovative solutions.</p>
+
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/jakqueline-hg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakqueline-hg" height="40" width="50" /></a>
 <a href="https://www.instagram.com/_herreraa.jaky/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_herreraa.jaky/" height="40" width="50" /></a>
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakqui&label=Profile%20views&color=0e75b6&style=flat" alt="jakqui" /> </p>
+
 
 ## ⚡ Technologies
 
