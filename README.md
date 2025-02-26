@@ -3,66 +3,49 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jakqueline-hg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" height="40" width="50" /></a>
-  <a href="https://www.instagram.com/_herreraa.jaky/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white&style=flat" alt="Instagram" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/jakqueline-hg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakqueline-hg" height="40" width="50" /></a>
+<a href="https://www.instagram.com/_herreraa.jaky/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_herreraa.jaky/" height="40" width="50" /></a>
 </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjrz96&label=Profile%20views&color=0e75b6&style=flat" alt="luisjrz96" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-## ⚡ Technologies I Use
+## ⚡ Technologies
 
 ### :speech_balloon: Languages
 
-<p align="center">
-  <img title="Java" alt="Java" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Java_logo_%28stack%29.svg">
-  <img alt="JavaScript" title="JavaScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png">
-  <img title="HTML" alt="HTML" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg">
-  <img title="CSS" alt="CSS" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
-</p>
+| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
+| -- | -- | -- | -- |
 
 ### :floppy_disk: Databases
 
-<p align="center">
-  <img title="MySQL" alt="MySQL" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/MySQL_logo.svg">
-</p>
+|<img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
+| -- |
 
-### 🖼️ Frameworks & Libraries
+### 🖼️ Frameworks & libraries
 
-<p align="center">
-  <img title="Spring" alt="Spring" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Spring_Framework_Logo_2018.svg">
-  <img title="Node.js" alt="Node.js" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Node.js_logo.svg">
-  <img title="Vue.js" alt="Vue.js" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-</p>
+| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Vue" alt="Vue" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> |
+| -- | -- | -- |
 
 ### :wrench: Tools
 
-<p align="center">
-  <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-  <img title="npm" alt="npm" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Npm-logo.svg">
-  <img title="Git" alt="Git" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Git_logo.svg">
-  <img title="Docker" alt="Docker" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Docker_%28container_engine%29_logo.svg">
-</p>
+|<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |<img title="JasperReports" alt="JasperReports" width="55px" src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg">|<img title="Docker" alt="docker" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Talend" alt="talend" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg">|
+| -- | -- | -- | -- | -- | -- |
+
+<br>
+  
+## :muscle: My strengths
+- :question: I try to **learn** new things every day.
+- I never give up easily
 
 <br>
 
-## 💪 My Strengths
-- :books: I constantly **learn** and expand my knowledge.
-- 💡 I’m always looking for **innovative solutions**.
-
-## 😅 My Flaws
-- :hourglass_flowing_sand: I tend to get **impatient** when things are delayed.
-- :thinking: Sometimes, I need a moment to gather my thoughts.
+## :sweat_smile: My flaws
+- :tshirt: I get impatient when something makes me angry
+- :innocent: Sorry, who are you?
 
 <br>
 
-## 🤔 GitHub Stats
+## 🤔 Other interesting facts from my github
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakqui&show_icons=true&locale=en&layout=compact" alt="jakqui" /></p><br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakqui&show_icons=true&locale=en" alt="jakqui" /></p>
