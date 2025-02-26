@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jakqueline Herrera</h1>
-<h3 align="center">Full Stack Developer passionate about new technologies!</h3>
+<h3 align="center">Full Stack Developer [ Backend & Frontend ] Passionate about New Technologies!</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
